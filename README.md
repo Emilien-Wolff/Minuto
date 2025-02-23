@@ -3,6 +3,8 @@
 > [!NOTE]
 > Un projet dans le cadre de ma première année en école d'ingénieur visant la fabrication d'un capteur d'irradiance solaire
 
+![alt text](https://github.com/Emilien-Wolff/Peugeot-E-103/blob/main/Documentation/Photos/IMG_3447.jpg?raw=true)
+
 ## Mon objectif
 
 > Conceptualiser, dimensionner et créer un capteur fonctionnel d'irradiance solaire
