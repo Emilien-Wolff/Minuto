@@ -1,7 +1,7 @@
 # Code - Capteur d'Irradiance Solaire  
 
 Ce dossier contient :  
-- **`tracé courbes.py`** : Script Python pour tracer les courbes d'étalonnage du capteur en relevant les couples **tension - température**. Il faut téléverser le fichier  **`etalonnage final.ino`** dans l'Arduino avant.
+- **`tracé courbes.py`** : Script Python pour tracer les courbes d'étalonnage du capteur en relevant les couples **tension - température**. Il faut téléverser le fichier  **`etalonnage_final.ino`** dans l'Arduino avant.
 - **`CapteurTempAvecEcranTempo_V7.ino`** : Code Arduino calculant et affichant l'irradiance solaire sur un écran **OLED 128x64** sur une durée **Δt** modifiable dans le code.  
 
 ## Utilisation  
