@@ -1,5 +1,5 @@
 
-# Minuto - mission technique de l'ingénieur 🏍️
+# Minuto - mission technique de l'ingénieur ⚙️
 > [!NOTE]
 > Un projet dans le cadre de ma première année en école d'ingénieur visant la fabrication d'un capteur d'irradiance solaire
 
