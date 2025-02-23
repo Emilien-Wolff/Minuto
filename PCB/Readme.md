@@ -1,6 +1,6 @@
-# Projet PCB Minuto
+# PCB Minuto
 
-Bienvenue dans le projet **Minuto PCB** ! Ce projet contient les fichiers nécessaires à la fabrication et à l'assemblage de la carte PCB Minuto.
+Partie PCB du projet ! Ce dossier contient les fichiers nécessaires à la fabrication et à l'assemblage de la carte PCB du Minuto.
 
 ## Fichiers Inclus
 
