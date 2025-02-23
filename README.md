@@ -3,7 +3,7 @@
 > [!NOTE]
 > Un projet dans le cadre de ma première année en école d'ingénieur visant la fabrication d'un capteur d'irradiance solaire
 
-![alt text](https://github.com/Emilien-Wolff/Minuto/Photos/IMG_6275.JPG)
+![alt text]([https://github.com/Emilien-Wolff/Minuto/Photos/IMG_6275.JPG](https://github.com/Emilien-Wolff/Minuto/blob/main/Photos/IMG_6275.JPG))
 
 ## Mon objectif
 
