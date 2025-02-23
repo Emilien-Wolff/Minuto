@@ -12,7 +12,7 @@ Ce dossier contient :
   ```  
 - **Mesure (Arduino)** :  
   1. Ouvrir `CapteurTempAvecEcranTempo_V7.ino` dans l'IDE Arduino.  
-  2. Modifier **Δt** si nécessaire.  
+  2. Modifier $\Delta t$ si nécessaire.  
   3. Téléverser le code sur un **Arduino R4 Wifi**.  
 
 📌 *Vérifiez les connexions du capteur et de l'afficheur OLED avant exécution.*
