@@ -1,40 +1,40 @@
 
-# Peugeot E-103 🏍️
+# Minuto - mission technique de l'ingénieur 🏍️
 > [!NOTE]
-> Un projet fou que je me suis lancé en juillet 2023 : concevoir de A à Z la première Peugeot 103 électrique, avec un design original et une chaine électrique et dynamique sur mesure !
+> Un projet dans le cadre de ma première année en école d'ingénieur visant la fabrication d'un capteur d'irradiance solaire
 
 ![alt text](https://github.com/Emilien-Wolff/Peugeot-E-103/blob/main/Documentation/Photos/IMG_3447.jpg?raw=true)
 
 ## Mon objectif
 
-> Toujours passionné par la mécanique et le développement, j'ai voulu me tester sur un projet à taille réelle, en remettant au gout du jour l'icône des années 1970.
+> Conceptualiser, dimensionner et créer un capteur fonctionnel d'irradiance solaire
 
 
-## Mon cahier des charges
+## Points abordés
 
- - Restauration de la mobylette dans le respect de l'origine
- - Réversilibité des modifications apportées
- - Augmentation des performances (accélération au démarrage pour s'inscire facilement dans le traffic)
- - Autonomie de plus de 50km
- - Différence d'esthétique discrète 
- - Solution d'electrification abordable
- - Projet compatible avec mes études
+ - Gestion de projet : diagramme de Gantt, partage des tâches et planification
+ - Étude des phénomènes conducto-convectifs et négligeabilité de ceux-ci
+ - Montage en pont de Wheatstone amplifié sur thermistance
+ - Étalonnage de cette dernière en enceinte adiabatique*
+ - Programmation du micro contrôleur Arduino R4
+ - Apprentissage du pistage en CAO et fabrication sur mesure d’un PCB et d’un boîtier imprimé en 3D
+ - Tests finaux et incertitudes
 
 
 ## FAQ
 
-#### Pourquoi une 103 ?
-J'ai toujours été intéressé par les véhicules anciens et les mécaniques parfois innovantes. La Peugeot 103 en faisait partie, mobylette inconique dont mes parents m'ont parlé, et à laquelle je me suis vite attaché, par son esthétique et la trace qu'elle a laissé.
+#### Pourquoi cette méthode de mesure ?
+"Minuto" était une unité d'enseignement qui fait totalement partie de ma formation et l'objectif était de faire un premier dans la gestion de projet. La mesure exploitant la capacité thermique massique du bloc de laiton était un moyen d'appliquer des montage électroniques de base et de discuter sur la précision de mesure. 
 
 #### Combien de temps ça t'as pris ?
 
-Je n'ai pas noté mes heures de travail, mais il faut compter une centaine d'heures de restauration et 400 heures d'étude et de conversion.
+Le projet a duré 4 mois, d'octobre 2024 à janvier 2025
 
 #### T'as fait ça tout seul ??
 
-D'autant que j'ai pu, oui. Le projet cible aussi ma formation personnelle, à la fois dans le domaine technique et pour le challenge de mener à bien, et proprement un projet.
+Pas du tout ! J'ai eu l'occasion de travailler avec des camarades de mon école, et ce fut extrêmement enrichissant de collaborer avec eux.
 
 ## 🚀 Qui suis-je ?
-Je suis actuellement en deuxième année de classe préparatoire aux écoles d'ingénieur. Ce projet fait l'objet de mon TIPE 2023-2024, peaufiné durant l'année.
+Je suis actuellement en première année d'école d'ingénieur à l'école des Mines IMT Atlantique. Je voudrais continuer mon cursus dans l'électronique et les sytèmes embarqués
 
 
