@@ -32,7 +32,7 @@ Le projet a duré 4 mois, d'octobre 2024 à janvier 2025
 
 #### T'as fait ça tout seul ??
 
-Pas du tout ! J'ai eu l'occasion de travailler avec des camarades de mon école, et ce fut extrêmement enrichissant de collaborer avec eux.
+Pas du tout ! J'ai eu l'occasion de travailler avec des camarades de mon école, et ce fut extrêmement enrichissant de collaborer avec eux. Merci Anatole, Camille, Salah, Isma et LP !
 
 ## 🚀 Qui suis-je ?
 Je suis actuellement en première année d'école d'ingénieur à l'école des Mines IMT Atlantique. Je voudrais continuer mon cursus dans l'électronique et les sytèmes embarqués
