@@ -16,4 +16,4 @@ Ce dossier contient les fichiers de conception du boîtier Minuto, réalisés av
 
 ---
 
-Impression 3D en PLA, 0,2mm, avec supports, attention à bien choisir la couleur du couvercle supérieur
+Impression 3D en PLA sur P1S, 0,2mm d'épaisseur de couche, avec supports, attention à bien choisir la couleur du couvercle supérieur
