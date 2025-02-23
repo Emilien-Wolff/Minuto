@@ -9,7 +9,6 @@ Ce dossier contient :
 - **Étalonnage (Python)** :  
   ```sh
   pip install matplotlib numpy  
-  python etalonnage.py  
   ```  
 - **Mesure (Arduino)** :  
   1. Ouvrir `CapteurTempAvecEcranTempo_V7.ino` dans l'IDE Arduino.  
