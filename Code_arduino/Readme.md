@@ -15,5 +15,5 @@ Ce dossier contient :
   2. Modifier $\Delta t$ si nécessaire.  
   3. Téléverser le code sur un **Arduino R4 Wifi**.  
 
-📌 *Vérifiez les connexions du capteur et de l'afficheur OLED avant exécution.*
+📌 *Vérifiez les connexions du capteur et de l'afficheur OLED avant exécution. Attention aux faux contacts sur breadboard, c'est pour ça qu'on a décidé de faire un pcb ...*
 
