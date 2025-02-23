@@ -24,7 +24,7 @@
 ## FAQ
 
 #### Pourquoi cette méthode de mesure ?
-"Minuto" était une unité d'enseignement qui fait totalement partie de ma formation et l'objectif était de faire un premier dans la gestion de projet. La mesure exploitant la capacité thermique massique du bloc de laiton était un moyen d'appliquer des montage électroniques de base et de discuter sur la précision de mesure. 
+"Minuto" était une unité d'enseignement qui fait totalement partie de ma formation d'ingénieur et l'objectif était de faire un premier pas dans la gestion de projet. La mesure exploitant la capacité thermique massique du bloc de laiton était un moyen d'appliquer des montages électroniques de base et de discuter sur la précision de mesure. 
 
 #### Combien de temps ça t'as pris ?
 
