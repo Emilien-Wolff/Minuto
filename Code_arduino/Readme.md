@@ -2,7 +2,7 @@
 
 Ce dossier contient :  
 - **`tracé courbes.py`** : Script Python pour tracer les courbes d'étalonnage du capteur en relevant les couples **tension - température**.  
-- **`capteur_irradiance.ino`** : Code Arduino calculant et affichant l'irradiance solaire sur un écran **OLED 128x64** sur une durée **Δt** modifiable dans le code.  
+- **`CapteurTempAvecEcranTempo_V7.ino`** : Code Arduino calculant et affichant l'irradiance solaire sur un écran **OLED 128x64** sur une durée **Δt** modifiable dans le code.  
 
 ## Utilisation  
 
@@ -12,7 +12,7 @@ Ce dossier contient :
   python etalonnage.py  
   ```  
 - **Mesure (Arduino)** :  
-  1. Ouvrir `capteur_irradiance.ino` dans l'IDE Arduino.  
+  1. Ouvrir `CapteurTempAvecEcranTempo_V7.ino` dans l'IDE Arduino.  
   2. Modifier **Δt** si nécessaire.  
   3. Téléverser le code sur un **Arduino R4 Wifi**.  
 
