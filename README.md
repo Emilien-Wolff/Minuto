@@ -15,7 +15,7 @@
  - Gestion de projet : diagramme de Gantt, partage des tâches et planification
  - Étude des phénomènes conducto-convectifs et négligeabilité de ceux-ci
  - Montage en pont de Wheatstone amplifié sur thermistance
- - Étalonnage de cette dernière en enceinte adiabatique*
+ - Étalonnage de cette dernière en enceinte adiabatique
  - Programmation du micro contrôleur Arduino R4
  - Apprentissage du pistage en CAO et fabrication sur mesure d’un PCB et d’un boîtier imprimé en 3D
  - Tests finaux et incertitudes
